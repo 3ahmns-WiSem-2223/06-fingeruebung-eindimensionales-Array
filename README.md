@@ -6,3 +6,4 @@ N-1= letzte stelle
 0 = erste stelle
 ![image](https://user-images.githubusercontent.com/114598243/200887709-e98ae7e1-75a6-4205-b930-abe301140cfd.png)
 
+array.lenght: Die length Eigenschaft des Array Objekts gibt seine aktuelle Länge als Integer-Zahlenwert wieder.
