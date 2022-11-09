@@ -1,7 +1,4 @@
-# 06-fingeruebung-eindimensionales-Array
-Definition 1 Din Array
-
-Eindimensionale Arrays
+# Eindimensionale Arrays
 
 Ein Eindimensionales Array ist im Prinzip eine einfache Liste. Arrays werden mit einem Datentypen deklariert. Alle Werte in einem Array müssen von demselben datentypen sein mit dem das Array deklariert worden ist, um gespeichert zu werden.
 N= # der Elemente im Array
