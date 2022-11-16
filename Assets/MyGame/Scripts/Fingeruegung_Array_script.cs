@@ -18,9 +18,23 @@ public class Fingeruegung_Array_script : MonoBehaviour
        
         
         arrayColoredImagesRed = GameObject.FindGameObjectsWithTag("RedImage");
-        
 
-       
+        Debug.Log(array1[0]);
+        Debug.Log(array2[0]);
+        Debug.Log(array3[0]);
+        Debug.Log(array4[0]);
+        Debug.Log(arrayColoredImagesRed[0]);
+
+        Debug.Log(array1[array1.Length - 1]);
+        Debug.Log(array2[array2.Length - 1]);
+        Debug.Log(array3[array3.Length - 1]);
+        Debug.Log(array4[array4.Length - 1]);
+        Debug.Log(arrayColoredImagesRed[arrayColoredImagesRed.Length - 1]);
+
+        for (int i = 0; i < array3.Length; i++)
+        {
+            Debug.Log(array3[i]);
+        }
     }
     void Update()
     {
