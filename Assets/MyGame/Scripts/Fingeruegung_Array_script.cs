@@ -1,5 +1,4 @@
 using UnityEngine;
-using System.Collections;
 
 public class Fingeruegung_Array_script : MonoBehaviour
 {
